@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This is a companion site for students enrolled in [Larry Vincent's](https://www.laurencevincent.com){target="_blank"} Customer Insights & Analysis course (MKT512) at the [USC Marshall School of Business](https://marshall.usc.edu){target="_blank"}. This site is provided to make it more convenient for students to find slide presentations related to course content.
+This is a companion site for students enrolled in [Larry Vincent's](https://www.laurencevincent.com){target="_blank"} Customer Insights & Analysis course (MKT512) at the [USC Marshall School of Business](https://marshall.usc.edu){target="_blank"}. This site is provided to make it more convenient for students to find slide presentations related to course content. 
