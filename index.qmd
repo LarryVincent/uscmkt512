@@ -1,0 +1,14 @@
+---
+title: "USC MKT512"
+subtitle: "Prof. Larry Vincent"
+---
+
+## Session Slides
+
+1.  [Course Introduction](https://snazzy-biscochitos-3a6d26.netlify.app){target="\_blank"}
+2.  [Customer-Centricity](https://clever-kitten-15d71a.netlify.app){target="\_blank"}
+3.  [Valuing Customers](https://lucky-tartufo-772afe.netlify.app){target="\_blank"}
+
+## Challenges
+
+1. [Troy Coffee](https://exquisite-cupcake-f36fd7.netlify.app/){target="\_blank"}
