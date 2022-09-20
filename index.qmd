@@ -10,6 +10,9 @@ subtitle: "Prof. Larry Vincent"
 3.  [Valuing Customers](https://lucky-tartufo-772afe.netlify.app){target="_blank"}
 4.  [CLV Basics](https://candid-lamington-6c27b5.netlify.app/){target="_blank"}
 5.  [CLV Next Steps](https://m512-05-clv2-b9d0d1.netlify.app/){target="_blank"}
+6.  Blue Apron Case (No Slides)
+7.  [Qualitative Research Intro](https://m512-07-qual-intro-8a6837.netlify.app/)
+8.  Guest: Lisa Bertelsen (No Slides€)
 
 ## Challenges
 
