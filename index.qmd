@@ -11,10 +11,17 @@ subtitle: "Prof. Larry Vincent"
 4.  [CLV Basics](https://candid-lamington-6c27b5.netlify.app/){target="_blank"}
 5.  [CLV Next Steps](https://m512-05-clv2-b9d0d1.netlify.app/){target="_blank"}
 6.  Blue Apron Case (No Slides)
-7.  [Qualitative Research Intro](https://m512-07-qual-intro-8a6837.netlify.app/)
-8.  Guest: Lisa Bertelsen (No Slides€)
+7.  [Qualitative Research Intro](https://m512-07-qual-intro-8a6837.netlify.app/){target="_blank"}
+8.  Guest: Lisa Bertelsen (No Slides)
+9.  [Consumer Value and Brand Relationships](https://m512-09-value-f82839.netlify.app/){target="_blank"}
+10. [Hubspot Case](https://m512-10-hubspot-case-8d60c1.netlify.app/){target="_blank"}
+11. Filene's Basement Case (No Slides)
+12. Consumer Behavior Exercise Read-Out (No Slides)
+13. [Intro to Quant: Aspen Homegoods Challenge](https://m512-13-aspen-49b8d3.netlify.app/){target="_blank"}
+14. [Artea Case (A)](https://m512-14-artea-case-a-8e000f.netlify.app/){target="_blank"}
 
 ## Challenges
 
 1.  [Troy Coffee](https://exquisite-cupcake-f36fd7.netlify.app/){target="_blank"}
 2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/)]{target="_blank"}
+3.  [Aspen Homegoods](https://m512-c3-analysis-c5f3e1.netlify.app/){target="_blank"}
