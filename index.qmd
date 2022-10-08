@@ -23,5 +23,5 @@ subtitle: "Prof. Larry Vincent"
 ## Challenges
 
 1.  [Troy Coffee](https://exquisite-cupcake-f36fd7.netlify.app/){target="_blank"}
-2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/)]{target="_blank"}
+2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/){target="_blank"}
 3.  [Aspen Homegoods](https://m512-c3-analysis-c5f3e1.netlify.app/){target="_blank"}
