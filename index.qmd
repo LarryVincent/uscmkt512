@@ -19,9 +19,17 @@ subtitle: "Prof. Larry Vincent"
 12. Consumer Behavior Exercise Read-Out (No Slides)
 13. [Intro to Quant: Aspen Homegoods Challenge](https://m512-13-aspen-49b8d3.netlify.app/){target="_blank"}
 14. [Artea Case (A)](https://m512-14-artea-case-a-8e000f.netlify.app/){target="_blank"}
+15. [Artea Case (B)](https://m512-15-artea-b-9919b6.netlify.app/#/title-slide){target="_blank"}
+16. [Clustering: Le Abode Challenge](https://m512-16-le-abode-deck-3b854d.netlify.app){target="_blank"}
+17. [Apex Entertainment (A)](https://m512-17-apex-case-b6ed5e.netlify.app/){target="_blank"}
 
 ## Challenges
 
 1.  [Troy Coffee](https://exquisite-cupcake-f36fd7.netlify.app/){target="_blank"}
 2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/){target="_blank"}
 3.  [Aspen Homegoods](https://m512-c3-analysis-c5f3e1.netlify.app/){target="_blank"}
+4.  [Le Abode](https://m512-c4-analysis-f6198b.netlify.app/){target="_blank"}
+
+## Other Analyses
+
+1. [Apex (A) Detailed Analysis](https://m512-s17-apex-67baf0.netlify.app/){target="_blank"}
