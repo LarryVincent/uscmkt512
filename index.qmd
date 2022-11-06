@@ -29,6 +29,8 @@ subtitle: "Prof. Larry Vincent"
 2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/){target="_blank"}
 3.  [Aspen Homegoods](https://m512-c3-analysis-c5f3e1.netlify.app/){target="_blank"}
 4.  [Le Abode](https://m512-c4-analysis-f6198b.netlify.app/){target="_blank"}
+5.  [Smartwatch](https://m512-c5-analysis-4d2569.netlify.app/){target="_blank"}
+6.  [Crew's Cup](https://m512-c6-crews-cup-5b6f1f.netlify.app/){target="_blank"}
 
 ## Other Analyses
 
