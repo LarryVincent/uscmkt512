@@ -35,3 +35,4 @@ subtitle: "Prof. Larry Vincent"
 ## Other Analyses
 
 1. [Apex (A) Detailed Analysis](https://m512-s17-apex-67baf0.netlify.app/){target="_blank"}
+2. [Technical Note: Consolidating Variables](https://m512-tn-01-consolidation-a7724f.netlify.app/){target="_blank"}
