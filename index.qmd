@@ -22,6 +22,7 @@ subtitle: "Prof. Larry Vincent"
 15. [Artea Case (B)](https://m512-15-artea-b-9919b6.netlify.app/#/title-slide){target="_blank"}
 16. [Clustering: Le Abode Challenge](https://m512-16-le-abode-deck-3b854d.netlify.app){target="_blank"}
 17. [Apex Entertainment (A)](https://m512-17-apex-case-b6ed5e.netlify.app/){target="_blank"}
+18. [QWE Analysis Slides](https://m512-qwe-analysis-a8cb69.netlify.app/)
 
 ## Challenges
 
@@ -36,3 +37,17 @@ subtitle: "Prof. Larry Vincent"
 
 1. [Apex (A) Detailed Analysis](https://m512-s17-apex-67baf0.netlify.app/){target="_blank"}
 2. [Technical Note: Consolidating Variables](https://m512-tn-01-consolidation-a7724f.netlify.app/){target="_blank"}
+
+
+## Selected Class Recordings
+
+- [Quant Intro / Aspen Homegoods](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6e5ec993-78bb-4128-b619-af09010d50d9)
+- [Artea Case Analysis: P1](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=351198df-a0c5-4c67-b422-af09012aa72e)
+- [Artea Case Analysis: P2](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fba1693-ca72-4cc7-a57f-af09017dd519)
+- [Segmentation & Clustering](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b17aa706-31e3-4e6f-b9c4-af0a01239fe0)
+- [Apex B Case Analysis](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cbdb484-8681-4fd4-b6a6-af0b01700e6b)
+- [Cross-Selling](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d823c753-7b26-4dd3-910f-af0c00058415)
+- [Crew's Cup Challenge Debrief](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b4d102-fdbf-411e-ade3-af0e014c8a7b)
+- [Moonshot IA2 Briefing](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9244351d-ec9b-405e-b3d2-af0e017bcdef)
+- [Othellonia Case Discussion: CLV Retention vs. Acquisition](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23501446-26dc-4a4b-8304-af0f001b7099)
+- [QWE Case Discussion: Methods Review & Logistic Regression](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c81fac53-1d4d-4635-8bc4-af1001809764)
