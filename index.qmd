@@ -5,50 +5,7 @@ subtitle: "Prof. Larry Vincent"
 
 ## Session Slides
 
-1.  [Course Introduction](https://snazzy-biscochitos-3a6d26.netlify.app){target="_blank"}
-2.  [Customer-Centricity](https://clever-kitten-15d71a.netlify.app){target="_blank"}
-3.  [Valuing Customers](https://lucky-tartufo-772afe.netlify.app){target="_blank"}
-4.  [CLV Basics](https://candid-lamington-6c27b5.netlify.app/){target="_blank"}
-5.  [CLV Next Steps](https://m512-05-clv2-b9d0d1.netlify.app/){target="_blank"}
-6.  Blue Apron Case (No Slides)
-7.  [Qualitative Research Intro](https://m512-07-qual-intro-8a6837.netlify.app/){target="_blank"}
-8.  Guest: Lisa Bertelsen (No Slides)
-9.  [Consumer Value and Brand Relationships](https://m512-09-value-f82839.netlify.app/){target="_blank"}
-10. [Hubspot Case](https://m512-10-hubspot-case-8d60c1.netlify.app/){target="_blank"}
-11. Filene's Basement Case (No Slides)
-12. Consumer Behavior Exercise Read-Out (No Slides)
-13. [Intro to Quant: Aspen Homegoods Challenge](https://m512-13-aspen-49b8d3.netlify.app/){target="_blank"}
-14. [Artea Case (A)](https://m512-14-artea-case-a-8e000f.netlify.app/){target="_blank"}
-15. [Artea Case (B)](https://m512-15-artea-b-9919b6.netlify.app/#/title-slide){target="_blank"}
-16. [Clustering: Le Abode Challenge](https://m512-16-le-abode-deck-3b854d.netlify.app){target="_blank"}
-17. [Apex Entertainment (A)](https://m512-17-apex-case-b6ed5e.netlify.app/){target="_blank"}
-18. [QWE Analysis Slides](https://m512-qwe-analysis-a8cb69.netlify.app/)
-
 ## Challenges
-
-1.  [Troy Coffee](https://exquisite-cupcake-f36fd7.netlify.app/){target="_blank"}
-2.  [Cardinal Wealth Management](https://m512-c2-analysis-093fff.netlify.app/){target="_blank"}
-3.  [Aspen Homegoods](https://m512-c3-analysis-c5f3e1.netlify.app/){target="_blank"}
-4.  [Le Abode](https://m512-c4-analysis-f6198b.netlify.app/){target="_blank"}
-5.  [Smartwatch](https://m512-c5-analysis-4d2569.netlify.app/){target="_blank"}
-6.  [Crew's Cup](https://m512-c6-crews-cup-5b6f1f.netlify.app/){target="_blank"}
 
 ## Other Analyses
 
-1. [Apex (A) Detailed Analysis](https://m512-s17-apex-67baf0.netlify.app/){target="_blank"}
-2. [Technical Note: Consolidating Variables](https://m512-tn-01-consolidation-a7724f.netlify.app/){target="_blank"}
-3. [Assignment #2: Moonshot Clinical](https://m512-a2-moonshot-analysis-2212fd.netlify.app/)
-
-
-## Selected Class Recordings
-
-- [Quant Intro / Aspen Homegoods](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6e5ec993-78bb-4128-b619-af09010d50d9)
-- [Artea Case Analysis: P1](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=351198df-a0c5-4c67-b422-af09012aa72e)
-- [Artea Case Analysis: P2](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fba1693-ca72-4cc7-a57f-af09017dd519)
-- [Segmentation & Clustering](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b17aa706-31e3-4e6f-b9c4-af0a01239fe0)
-- [Apex B Case Analysis](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cbdb484-8681-4fd4-b6a6-af0b01700e6b)
-- [Cross-Selling](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d823c753-7b26-4dd3-910f-af0c00058415)
-- [Crew's Cup Challenge Debrief](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b4d102-fdbf-411e-ade3-af0e014c8a7b)
-- [Moonshot IA2 Briefing](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9244351d-ec9b-405e-b3d2-af0e017bcdef)
-- [Othellonia Case Discussion: CLV Retention vs. Acquisition](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23501446-26dc-4a4b-8304-af0f001b7099)
-- [QWE Case Discussion: Methods Review & Logistic Regression](https://usc-marshall-panopto-demo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c81fac53-1d4d-4635-8bc4-af1001809764)
