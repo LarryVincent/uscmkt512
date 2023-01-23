@@ -7,6 +7,7 @@ subtitle: "Prof. Larry Vincent"
 
 1. [Course Introduction](https://m512-01-231-intro-77f892.netlify.app/)
 2. [Customer Centricity](https://m512-02-231-custcentricity-d04f20.netlify.app/)
+3. [NPS and Customer Profit](https://m512-03-nps-56ef92.netlify.app/)
 
 ## Challenges
 
